@@ -1,0 +1,22 @@
+C:\Users\Raul Rohjans\Desktop\TypingRace\TypingRace\bin\Debug\TypingRace.exe.config
+C:\Users\Raul Rohjans\Desktop\TypingRace\TypingRace\bin\Debug\TypingRace.exe
+C:\Users\Raul Rohjans\Desktop\TypingRace\TypingRace\bin\Debug\TypingRace.pdb
+C:\Users\Raul Rohjans\Desktop\TypingRace\TypingRace\obj\Debug\TypingRace.csprojAssemblyReference.cache
+C:\Users\Raul Rohjans\Desktop\TypingRace\TypingRace\obj\Debug\TypingRace.Form1.resources
+C:\Users\Raul Rohjans\Desktop\TypingRace\TypingRace\obj\Debug\TypingRace.Properties.Resources.resources
+C:\Users\Raul Rohjans\Desktop\TypingRace\TypingRace\obj\Debug\TypingRace.csproj.GenerateResource.cache
+C:\Users\Raul Rohjans\Desktop\TypingRace\TypingRace\obj\Debug\TypingRace.csproj.CoreCompileInputs.cache
+C:\Users\Raul Rohjans\Desktop\TypingRace\TypingRace\obj\Debug\TypingRace.exe
+C:\Users\Raul Rohjans\Desktop\TypingRace\TypingRace\obj\Debug\TypingRace.pdb
+C:\Users\Raul Rohjans\Desktop\TypingRace\TypingRace\obj\Debug\TypingRace.Tempo.resources
+Z:\Projects\TypingRace\TypingRace\bin\Debug\TypingRace.exe.config
+Z:\Projects\TypingRace\TypingRace\bin\Debug\TypingRace.exe
+Z:\Projects\TypingRace\TypingRace\bin\Debug\TypingRace.pdb
+Z:\Projects\TypingRace\TypingRace\obj\Debug\TypingRace.csprojAssemblyReference.cache
+Z:\Projects\TypingRace\TypingRace\obj\Debug\TypingRace.Form1.resources
+Z:\Projects\TypingRace\TypingRace\obj\Debug\TypingRace.Properties.Resources.resources
+Z:\Projects\TypingRace\TypingRace\obj\Debug\TypingRace.Tempo.resources
+Z:\Projects\TypingRace\TypingRace\obj\Debug\TypingRace.csproj.GenerateResource.cache
+Z:\Projects\TypingRace\TypingRace\obj\Debug\TypingRace.csproj.CoreCompileInputs.cache
+Z:\Projects\TypingRace\TypingRace\obj\Debug\TypingRace.exe
+Z:\Projects\TypingRace\TypingRace\obj\Debug\TypingRace.pdb
