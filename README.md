@@ -1,0 +1,1 @@
+This is the first version of a simple typing racer game I did. Although it is fully working, it uses a very badly optimized algorithm, so the bigger the text you import, the more lag the game will have and the more unplayable it will become.
